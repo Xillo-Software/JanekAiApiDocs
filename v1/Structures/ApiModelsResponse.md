@@ -2,6 +2,6 @@
 
 ## Fields
 
-|  Name        |  Type      |  Required  |  Default  |  Descryption  |
+|  Name        |  Type      |  Required  |  Default  |  Description  |
 |--------------|------------|------------|-----------|---------------|
-|  models      |  string[]  |  yes       |  []       |  All avaible models for a given Api Key  |
+|  models      |  string[]  |  yes       |  []       |  All available models for a given Api Key  |

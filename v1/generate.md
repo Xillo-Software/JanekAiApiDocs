@@ -19,7 +19,7 @@ curl "ailabs.clrmsg.pl/api/v1/generate" \
 ```
 
 
-## Posible Errors
+## Possible Errors
 
 Refer [Common Errors](/v1/commonerrors.md)
 

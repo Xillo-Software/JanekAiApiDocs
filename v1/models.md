@@ -6,7 +6,7 @@ Request Method: `GET`<br>
 Request Body Struct: `None`<br>
 Response Body Struct: [ApiModelsResponse](/v1/Structures/ApiModelsResponse.md)
 
-Provides a simple response with avaible models
+Provides a simple response with available models
 
 ## Examples
 
@@ -17,6 +17,6 @@ curl "ailabs.clrmsg.pl/api/v1/models" \
 ```
 
 
-## Posible Errors
+## Possible Errors
 
 Refer [Common Errors](/v1/commonerrors.md)
